@@ -35,3 +35,9 @@ background-size: contain;
     color:var(--branco-principal);
     display:block;
 }
+
+.botao_segundario{
+    background-color: transparent;
+    border:2px solid var(--branco-principal);
+    border-radius:16px;
+}
