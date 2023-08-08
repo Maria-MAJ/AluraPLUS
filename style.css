@@ -20,6 +20,7 @@ color:var(--branco-principal);
     background-image: url(img/backgroud.png);
 background-repeat: no-repeat;
 background-size: contain;
+grid-template-columns: 30% 30%;
 }
 
 .contrainer{
