@@ -25,3 +25,9 @@ background-size: contain;
 .contrainer{
     height: 100vh;
 }
+ 
+.container__botao{
+    background-color: var(--botao-azul);
+
+
+}
