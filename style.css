@@ -36,6 +36,7 @@ background-size: contain;
     color:var(--branco-principal);
     display:block;
     text-decoration: none;
+    margin-bottom: 1em;
 }
 
 .container_botao_segundario{
@@ -59,4 +60,10 @@ background-size: contain;
 .container__imagem {
    margin: 1m 0 2em 0;
 
+}
+
+.container__caixa {
+
+    margin: 0 6em;
+    margin-top: 150px;
 }
