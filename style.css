@@ -17,15 +17,16 @@ color:var(--branco-principal);
 }
 
 .principal{
-    background-image: url(img/backgroud.png);
+    background-image: url(backgroud.png);
 background-repeat: no-repeat;
 background-size: contain;
 }
 
-.contrainer{
+.container{
     height: 100vh;
     display:grid;
     grid-template-columns: 30% 30%;
+    font-size: 70px;
 }
  
 .container__botao{
