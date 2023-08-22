@@ -35,7 +35,7 @@ background-size: contain;
     padding: 1em;
     color:var(--branco-principal);
     display:block;
-    text-decoration:nome ;
+    text-decoration: none;
 }
 
 .container_botao_segundario{
