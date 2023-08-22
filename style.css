@@ -17,7 +17,7 @@ color:var(--branco-principal);
 }
 
 .principal{
-    background-image: url(backgroud.png);
+ background-image: url(backgroud.png);
 background-repeat: no-repeat;
 background-size: contain;
 }
