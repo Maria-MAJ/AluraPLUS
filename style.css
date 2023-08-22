@@ -48,5 +48,10 @@ background-size: contain;
    font-size: 12px;
    color: var(--cinza-secundario) ;
 
+}
+
+.container__titulo{
+  font-size: 28px;
+  font-weight: 700;
 
 }
