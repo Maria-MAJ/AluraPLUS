@@ -38,7 +38,7 @@ background-size: contain;
     text-decoration:nome ;
 }
 
-.botao_segundario{
+.container_botao_segundario{
     background-color: var(transparent);
     border:2px solid var(--branco-principal);
     border-radius:16px;
