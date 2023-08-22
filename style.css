@@ -46,7 +46,7 @@ background-size: contain;
 
 .container_aviso{
    font-size: 12px;
-   color: var(--branco-principal);
+   color: var(--cinza-secundario) ;
 
 
 }
