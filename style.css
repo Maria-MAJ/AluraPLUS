@@ -26,7 +26,7 @@ background-size: contain;
     height: 100vh;
     display:grid;
     grid-template-columns: 30% 30%;
-    font-size: 70px;
+    font-size: 25px;
 }
  
 .container__botao{
@@ -42,3 +42,5 @@ background-size: contain;
     border:2px solid var(--branco-principal);
     border-radius:16px;
 }
+
+.container_aviso
