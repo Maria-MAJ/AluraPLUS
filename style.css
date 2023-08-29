@@ -11,10 +11,10 @@ background-color: var(--cor-de-fundo);
 color:var(--branco-principal);
 }
 
-.{
+. {
+    padding: 0;
     margin: 0;
-    padding: 0; 
-}
+} 
 
 .principal{
  background-image: url(Background.png);
