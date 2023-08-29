@@ -69,3 +69,11 @@ text-align: center;
     margin: 0 6em;
     margin-top: 150px;
 }
+
+.secundario__imagem {
+width: 80%;
+align-items: center;
+}
+
+.secundario{
+     align-items: center;}
