@@ -95,7 +95,14 @@ align-items: center;
     padding:1em;
     }
 
-    .container__descricao{
+    .container__descricao {
         padding:2em;
     }
 
+    .dispositivos__lista  {
+    display:flex;
+    justify-content: center;
+    list-style-type:none;
+    margin: 5em 0 ;
+
+    }
