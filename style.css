@@ -132,7 +132,7 @@ align-items: center;
         margin-top: 1em;
       }
 
-      .lista__link{
+      .lista__link a {
         text-decoration: none;
         color: var(--branco-principal);
         margin-left: 1em;
