@@ -138,4 +138,17 @@ align-items: center;
         margin-left: 1em;
       }
 
+      .lista__link a:hover { 
+        color:var(--botao-azul); }
       
+      .lista__link a:active {
+         color:purple }
+         
+         .container__botao:hover { 
+        background-color: #3c92fa; 
+        color:var(--cor-de-fundo); }
+        
+        .rodape__texto { 
+          margin: 1em 0;
+           color: var(--cinza-secundario); 
+           font-size: 14px; }
